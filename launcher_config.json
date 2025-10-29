@@ -1,0 +1,21 @@
+{
+	"clientVersion": "15.03.13560",
+	"launcherVersion": "1.0",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"shortcutName": "FentebraLauncher",
+	"clientFolder": "packages",
+	"newClientUrl" : "https://fendrith-global.com/download/client-to-update.zip",
+	"newLauncherUrl": "https://liont.net/tibia-client/Launcher.exe",
+	"clientExecutable": "client.exe"
+}
