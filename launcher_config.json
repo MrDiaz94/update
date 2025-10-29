@@ -1,6 +1,6 @@
 {
-	"clientVersion": "15.03.13560",
-	"launcherVersion": "1.0",
+	"clientVersion": "15.11.c9d1cf",
+	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -15,7 +15,7 @@
 	],
 	"shortcutName": "FentebraLauncher",
 	"clientFolder": "packages",
-	"newClientUrl" : "https://fendrith-global.com/download/client-to-update.zip",
-	"newLauncherUrl": "https://liont.net/tibia-client/Launcher.exe",
+	"newClientUrl" : "https://download1583.mediafire.com/pax7opz0fgjg0rdZmZRWHGjpKwkslbEYmGmuFtbFPfnQ1mMuB04qCqut_UraLqKpbgDA17Wry41vCr-PE8DON3MgtJapH8-YR3OIlkAaij7KG2MsWjdncgM8qhlDAWugjHImTFvbP9PuJm8fJ8u5Fy5BtpOSyUqh-Hveo-XYqxKzE58/4ze9beva2n2n85e/packages.zip",
+	"newLauncherUrl": "https://download1593.mediafire.com/g0ljrifeb15gTIGC8gvFrBPQiuYbmgHOMuCDho9cynIL7ePghDhNXoH5maLTl3v5v01QuHgfYj2J-euRKgUDGlM77lYgVqqEVCeASAc43_MZX3v6IJunMUAoRtrQzgi7YXSzCGPx5pcHwDfSQBxqzXIbuWRxP2Ke_0vjEwpQtN2i014/i8ddsg034mbftkp/FentebraLauncher.exe",
 	"clientExecutable": "client.exe"
 }
